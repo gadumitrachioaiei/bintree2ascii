@@ -1,0 +1,8 @@
+This module implements drawing an ascii representation of a binary tree, useful especially for bst trees, as you can clearly see the left and right subtrees.
+
+It offers three ways to generate the ascii art:
+1. Your tree implements the Interface interface.
+2. You can serialize your tree as json following certain naming conventions.
+3. You can give a graphviz dot representation of your tree.
+
+These are explained well in the documentation.
